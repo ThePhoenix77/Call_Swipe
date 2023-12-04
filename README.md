@@ -43,4 +43,5 @@ Follow these steps to get the project up and running on your local machine:
   *  Swipe left or right to return to the home screen.
 
 
+
 This README focuses on swipe gestures for accessing the dial interface and returning to the home screen. Adjust any details according to your specific project requirements.
