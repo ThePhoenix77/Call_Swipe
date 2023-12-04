@@ -27,8 +27,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Call_Swipe.git
-   cd swipe-dial-app
+   git clone https://github.com/ThePhoenix77/Call_Swipe.git
    
 2. **Open in Android Studio:**
    *  Open Android Studio.
