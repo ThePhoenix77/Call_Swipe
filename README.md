@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Call_Swipe mobile featuere introduces swipe gestures for your Android device. With this application, users can swipe up to access the dial interface and swipe left or right to return to the home screen.
+The Call_Swipe mobile feature introduces swipe gestures for your Android device. With this application, users can swipe up to access the dial interface and swipe left or right to return to the home screen.
 
 ## Features
 
